@@ -4,7 +4,7 @@
 
 Soy desarrollador web con formación en Frontend y actualmente continúo capacitándome en Backend en el Centro de e-Learning UTN FRBA.
 
-Me interesa crear aplicaciones y sitios web funcionales, responsivos y con una buena experiencia de usuario. “Actualmente busco mi primera oportunidad profesional como Desarrollador Web para seguir aprendiendo, aportar mis conocimientos y crecer como desarrollador.”
+Me interesa crear aplicaciones y sitios web funcionales, responsivos y con una buena experiencia de usuario. Actualmente busco mi primera oportunidad profesional como Desarrollador Web para seguir aprendiendo, aportar mis conocimientos y crecer como desarrollador.
 ## 🚀 Tecnologías
 
 - HTML5
